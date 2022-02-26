@@ -1,4 +1,4 @@
-# Foo Resource Provider
+# OVH Resource Provider
 
 The OVH Resource Provider lets you manage [OVH](http://ovh.com) resources.
 
